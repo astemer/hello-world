@@ -1,2 +1,2 @@
 # hello-world
-My first tutorial repo.
+This is ok for now.
